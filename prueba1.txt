@@ -1,1 +1,2 @@
-archivo recién creado
+Archivo recién creado.
+Esto lo he hecho después del primer commit.
